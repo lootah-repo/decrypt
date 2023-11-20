@@ -1714,7 +1714,7 @@ https://www.nextdns.io/
 
 To select the server location, the "-ultralow" variant relies on bootstrap servers instead of anycast.
 
-sdns://AgcAAAAAAAAAACCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ5kbnMubmV4dGRucy5pbw8vZG5zY3J5cHQtcHJveHk
+sdns://AgcAAAAAAAAACDQ1LjkwLjI4ABh1bHRyYWxvdy5kbnMxLm5leHRkbnMuaW8HL2I4N2NjYQ
 
 njalla-doh
 Non-logging DoH server in Sweden operated by Njalla.
