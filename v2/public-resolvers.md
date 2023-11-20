@@ -5,4 +5,4 @@ https://www.nextdns.io/
 
 To select the server location, the "-ultralow" variant relies on bootstrap servers instead of anycast.
 
-sdns://AgcAAAAAAAAACDQ1LjkwLjI4ABh1bHRyYWxvdy5kbnMxLm5leHRkbnMuaW8HL2I4N2NjYQ
+sdns://AgEAAAAAAAAANXNkbnM6Ly9BZ0VBQUFBQUFBQUFBQUFPWkc1ekxtNWxlSFJrYm5NdWFXOEhMMkk0TjJOallRAAAOL2I4N2NjYS9sb290YWg
